@@ -1,0 +1,1 @@
+It is an app where I worked deeply with the github api (https://api.github.com/users). We can search github users and if found, the basic information and some repositories are shown on the screen. We use such ES6 syntax like async await, fetch, and class instantiation. Project available on https://madej-githubfinder.netlify.app/
